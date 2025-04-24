@@ -1,6 +1,3 @@
-# Amazon-HackOn
-
-## Team Name: **random_gigabytes**
 
 ## Team Members:
 1. Bhupesh Dewangan - [bhupesh98](https://github.com/bhupesh98)
